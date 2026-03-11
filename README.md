@@ -187,7 +187,7 @@ gog-daily-remind/
 
 ## 快速開始
 
-1. 建立 Google Cloud 專案並取得 OAuth 憑證——這是最多人卡關的一步，完整流程請參考 [`zh-TW/setup/gog-setup.md`](zh-TW/setup/gog-setup.md)
+1. 建立 Google Cloud 專案並取得 OAuth 憑證——這是最多人卡關的一步，完整流程請參考 [`zh-tw/setup/gog-setup.md`](zh-tw/setup/gog-setup.md)
 2. 安裝 [gogcli](https://github.com/steipete/gogcli) 並完成 OAuth 授權
 3. 將本 repo 加入你的 OpenClaw
 4. 告訴你的 agent：「設定每日簡報」
