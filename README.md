@@ -86,7 +86,7 @@ gog-daily-remind/
 
 ## Quick Start
 
-1. Set up a Google Cloud project and create OAuth credentials — this is where most people get stuck. See [`en/setup/gog-setup.md`](en/setup/gog-setup.md) for the full walkthrough
+1. Set up a Google Cloud project and create OAuth credentials — this is where most people get stuck. See [`en/gog-setup.md`](en/gog-setup.md) for the full walkthrough
 2. Install [gogcli](https://github.com/steipete/gogcli) and complete OAuth authorization
 3. Add this repo to your OpenClaw installation
 4. Tell your agent: `set up morning briefing`
@@ -187,7 +187,7 @@ gog-daily-remind/
 
 ## 快速開始
 
-1. 建立 Google Cloud 專案並取得 OAuth 憑證——這是最多人卡關的一步，完整流程請參考 [`zh-tw/setup/gog-setup.md`](zh-tw/setup/gog-setup.md)
+1. 建立 Google Cloud 專案並取得 OAuth 憑證——這是最多人卡關的一步，完整流程請參考 [`zh-tw/gog-setup.md`](zh-tw/gog-setup.md)
 2. 安裝 [gogcli](https://github.com/steipete/gogcli) 並完成 OAuth 授權
 3. 將本 repo 加入你的 OpenClaw
 4. 告訴你的 agent：「設定每日簡報」
